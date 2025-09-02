@@ -1,7 +1,7 @@
 package prob1;
 
 /**
- * Represents a baskeball player
+ * Represents a baskeball player MADE A CHANGE
  *
  */
 public class BasketballPlayer {
